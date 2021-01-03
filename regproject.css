@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+.reg{
+	color:white;
+	-webkit-text-stroke: 1px block;
+	padding:40px 25px;
+	border-style:solid;
+	border-color:1px white;
+	font-style:bold;
+	font-family:arial;
+	font-weight:bold;
+	background:rgba(0,0,0,0.5);
+}
+body{
+	text-align:center;
+	align:center;
+	margin:150px;
+	background-image:url('https://www.fbi.gov/image-repository/man-at-keyboard-with-icons-stock-image.jpg/@@images/image/high');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#txt1{
+	font-weight:bold; 
+	font-family:serify;
+	font-size:20px;
+}
+#txt2{
+	font-style:bold;
+	color:red;
+	font-size:22px;
+	text-align:center;
+	text-transform:uppercase;
+	-webkit-text-stroke: 0.2px black;
+	
+		
+}
+.pro1{
+	text-align:center;
+	padding:40px 25px;
+	border-style:solid;
+	border-color:1px white;
+	background:rgba(0,0,0,0.5);
+	}
+.pass1{
+	padding-right:45px;
+}
+	
+
+	
